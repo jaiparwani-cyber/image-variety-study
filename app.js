@@ -35,7 +35,17 @@ const IMAGE_LIST = [
 "images/b_14_1.0539.png",
 "images/b15_8.4448.png",
 "images/b16_1.7875.png",
-"images/a_1_4.9865.jpg"
+"images/a_1_4.9865.jpg",
+"images/variety_3_2.81.png",
+"images/variety_4_3.67.png",
+"images/variety_5_4.32.png",
+"images/variety_6_5.73.png",
+"images/variety_7_6.47.png",
+"images/variety_8_7.61.png",
+"images/variety_9_6.80.png",
+"images/variety_10_7.78.png",
+"images/variety_1_0.88.png",
+"images/variety_2_1.88.png"
 ];
 
 const API_URL = "https://script.google.com/macros/s/AKfycbyv-iYJhGEhCxOoFhnUrfEtzbkEXkdJ_vQ9GiSr8ZXlAqtnB0hNZSyuPgctvk3e375p8A/exec";
