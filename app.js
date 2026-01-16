@@ -35,20 +35,6 @@ const IMAGE_LIST = [
 "images/b_14_1.0539.png",
 "images/b15_8.4448.png",
 "images/b16_1.7875.png",
-"images/variety_2_1.08.png",
-"images/variety_2_1.09.png",
-"images/variety_9_1.53.png",
-"images/variety_14_2.00.png",
-"images/variety_19_2.61.png",
-"images/variety_24_2.97.png",
-"images/variety_29_3.52.png",
-"images/variety_41_4.00.png",
-"images/variety_46_4.55.png",
-"images/variety_61_5.50.png",
-"images/variety_67_6.45.png",
-"images/variety_73_6.82.png",
-"images/variety_81_7.72.png",
-"images/variety_95_8.76.png",
 "images/a_1_4.9865.jpg"
 ];
 
